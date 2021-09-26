@@ -1,0 +1,78 @@
+/* bootstrap css */
+.clear{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+.logo-header{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.nav-header {
+    margin-top: 20px;
+    float: right;
+    margin-right: 50px;
+    color: red;
+    height: 100%;
+}
+.search-bar{
+    width: 40%;
+    height: 10%;
+}
+.myrow{
+    height: 100%;
+}
+.img1{
+    height: 80%;
+}
+/* css */
+.main-content{
+    text-align: center;
+    height: 200px;
+}
+.img-header{
+    background-image: url(/p2/logo/bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+    margin-top: 20px;
+    width: 100%;
+}
+.img-main{
+    background-color: rgb(220, 220, 220);
+    width: 100%;
+    background-size: cover;
+    height: 1100px;
+}
+.myimg{
+    height: 700px;
+}
+.mybg{
+    height: 200px;
+    border-radius: 12px;
+    width: 500px;
+}
+.myrow1{
+    height: 70%;
+}
+.img-pizza{
+    height: 130px;
+    width: 130px;
+    border-radius: 12px;
+}
+.order{
+    height: 100%;
+}
+.btn-order{
+    height: 30px; 
+    width: 110px; 
+    text-align: center;
+    color: white;
+    background-color:rgb(240, 128, 128);
+    border: none;
+    border-radius: 10px;
+}
+.img{
+    border-radius: 12px
+}

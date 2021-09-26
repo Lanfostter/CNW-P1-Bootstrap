@@ -1,0 +1,32 @@
+/* bootstrap css */
+.clear{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+.logo-header{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.nav-header {
+    margin-top: 20px;
+    float: right;
+    margin-right: 50px;
+    color: red;
+    height: 100%;
+}
+/* css */
+.main-content{
+    text-align: center;
+    height: 200px;
+}
+.img1{
+    height: 80%;
+}
+.myrow{
+    height: 600px;
+}
+.img{
+    border-radius: 12px;
+    
+}
